@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate programmer.</h3>
 
-<p align="center">[![banner][https://github.com/rajayush012/rajayush012/blob/master/banner.gif]](http://rajayush012.github.io)
+<p align="center">![banner](https://github.com/rajayush012/rajayush012/blob/master/banner.gif)
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajayush012&layout=compact&hide=html" alt="rajayush012" /></p>
 
 - 🔭 I’m currently working on **React**
