@@ -1,4 +1,4 @@
-![Mi casa](/images/banner.gif)
+![''](/banner.gif)
 
 >>Hello World.
 
@@ -10,5 +10,4 @@
 - 📫 How to reach me: raj.ayush012@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Well, you're almost conscious when you're sleeping.
-
 
