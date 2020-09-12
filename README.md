@@ -1,16 +1,14 @@
-### Hi there 👋
+![Mi casa](/images/banner.gif)
 
-<!--
-**rajayush012/rajayush012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>>Hello World.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning Redux-Saga, React Hooks, GraphQL, React Native and AWS.
+- 👯 I’m looking to collaborate on Web App projects.
+- 🤔 I’m looking for help with working on open source projects.
+- 💬 Ask me about Web Devlopment esp. JavaScript, Node, React, Data Strcutures and Algorithms, Internship @ GEP Worldwide.
+- 📫 How to reach me: raj.ayush012@gmail.com
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: Well, you're almost conscious when you're sleeping.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
