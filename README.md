@@ -4,7 +4,7 @@
 <p align="center"><img src="https://github.com/rajayush012/rajayush012/blob/master/banner.gif">
  </p>
 
-- 🌱 I’m currently learning **Redux-Saga, React Hooks, GraphQL, React Native and AWS.**
+- 🌱 I nerd on **React**
 - 👯 I’m looking to collaborate on **any web app project**
 - 🤝 I’m looking for help with **working on open source projects.**
 - 💬 Ask me about **react, node, javascript.**
